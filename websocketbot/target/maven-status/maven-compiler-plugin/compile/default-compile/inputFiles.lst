@@ -1,0 +1,12 @@
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\BotBean.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\encoders\InfoMessageEncoder.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\messages\InfoMessage.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\messages\ChatMessage.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\messages\Message.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\messages\JoinMessage.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\BotEndpoint.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\decoders\MessageDecoder.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\encoders\JoinMessageEncoder.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\encoders\UsersMessageEncoder.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\encoders\ChatMessageEncoder.java
+C:\Users\Filip\Desktop\DEV\Seminario\jakartaee-tutorial-examples-master\web\websocket\websocketbot\src\main\java\jakarta\tutorial\web\websocketbot\messages\UsersMessage.java

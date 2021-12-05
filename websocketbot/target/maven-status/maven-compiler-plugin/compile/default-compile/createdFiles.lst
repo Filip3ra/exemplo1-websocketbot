@@ -1,0 +1,13 @@
+jakarta\tutorial\web\websocketbot\encoders\UsersMessageEncoder.class
+jakarta\tutorial\web\websocketbot\encoders\JoinMessageEncoder.class
+jakarta\tutorial\web\websocketbot\messages\JoinMessage.class
+jakarta\tutorial\web\websocketbot\decoders\MessageDecoder.class
+jakarta\tutorial\web\websocketbot\messages\Message.class
+jakarta\tutorial\web\websocketbot\messages\UsersMessage.class
+jakarta\tutorial\web\websocketbot\encoders\ChatMessageEncoder.class
+jakarta\tutorial\web\websocketbot\encoders\InfoMessageEncoder.class
+jakarta\tutorial\web\websocketbot\BotBean.class
+jakarta\tutorial\web\websocketbot\messages\InfoMessage.class
+jakarta\tutorial\web\websocketbot\messages\ChatMessage.class
+jakarta\tutorial\web\websocketbot\BotEndpoint.class
+jakarta\tutorial\web\websocketbot\BotEndpoint$1.class
